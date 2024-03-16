@@ -1,0 +1,5 @@
+name=小A
+age=23
+gender=女
+height=168.2
+hobby=睡觉
